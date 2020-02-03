@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Hi! I am a cyber security enthusiast and I play Capture the Flag competitions regularly. I use this blog to share awesome challenges I have seen or other cyber security related stuff.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[info@b00t.nl](mailto:info@b00t.nl)
