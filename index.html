@@ -7,7 +7,7 @@ layout: default
     <article class="post">
       
       <h1><a href="{{ site.baseurl }}{{ post.url }}">
-        {% if post.style == "writeup" %}
+        {% if post.layout == "writeup" %}
           [{{ post.category }}] {{ post.title }}
         {% else %}
           {{ post.title }}
