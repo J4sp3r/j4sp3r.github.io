@@ -120,6 +120,13 @@ img {
   color: $gray;
 }
 
+.subtitle {
+  font-style: italic;
+  color: $gray;
+  font-size: 16px;
+  margin-top: -10px;
+}
+
 // Specify the color of the selection
 ::-moz-selection {
   color: $black;
